@@ -1,0 +1,20 @@
+{
+"description": "NFT for Testnet Metatime",
+"external_url": "https://alchemy.com",
+"image": "",
+"name": "MyNFT",
+"attributes": [
+{
+"trait_type": "Colour",
+"value": "Mixed"
+},
+{
+"trait_type": "Coolness",
+"value": "Metatime!"
+},
+{
+"trait_type": "Token Standard",
+"value": "ERC721"
+}
+]
+}
